@@ -29,8 +29,5 @@
 		"mvccore/ext-debug-tracy-routing": "^4.3.1",
 		"mvccore/ext-debug-tracy-session": "^4.3.1"
 	},
-	"autoload": {
-		"classmap": ["src/"]
-	},
 	"minimum-stability": "stable"
 }

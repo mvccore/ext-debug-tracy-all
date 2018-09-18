@@ -27,4 +27,5 @@ Add this to `Bootstrap.php` or to very application beginning:
 Dependent packages:
 - `mvccore/mvccore`
 - `mvccore/ext-auth`
+- `mvccore/ext-form`
 - `tracy/tracy`
