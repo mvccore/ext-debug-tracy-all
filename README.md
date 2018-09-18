@@ -1,4 +1,4 @@
-# MvcCore Extension - Debug - Nette Tracy Adapter - All Panels
+# MvcCore Extension - Debug - Tracy Adapter - All Panels
 
 [![Latest Stable Version](https://img.shields.io/badge/Stable-v4.3.1-brightgreen.svg?style=plastic)](https://github.com/mvccore/ext-debug-tracy-all/releases)
 [![License](https://img.shields.io/badge/Licence-BSD-brightgreen.svg?style=plastic)](https://mvccore.github.io/docs/mvccore/4.0.0/LICENCE.md)
