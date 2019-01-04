@@ -1,6 +1,6 @@
 {
 	"name": "mvccore/ext-debug-tracy-all",
-	"type": "library",
+	"type": "metapackage",
 	"description": "MvcCore - Extension - Debug - Tracy - All - adapter class for Nette Framework `tracy/tracy` library with all implemented debug panels for MvcCore.",
 	"keywords": [
 		"mvc", 
