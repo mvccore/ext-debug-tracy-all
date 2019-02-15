@@ -24,7 +24,6 @@
 	"require": {
 		"php": ">=5.4.0",
 		"mvccore/ext-debug-tracy": "dev-master",
-		"mvccore/ext-debug-tracy-auth": "dev-master",
 		"mvccore/ext-debug-tracy-mvccore": "dev-master",
 		"mvccore/ext-debug-tracy-routing": "dev-master",
 		"mvccore/ext-debug-tracy-session": "dev-master"
