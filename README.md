@@ -1,7 +1,7 @@
-# MvcCore Extension - Debug - Tracy Adapter - All Panels
+# MvcCore - Extension - Debug - Tracy Adapter - All Panels
 
-[![Latest Stable Version](https://img.shields.io/badge/Stable-v4.3.1-brightgreen.svg?style=plastic)](https://github.com/mvccore/ext-debug-tracy-all/releases)
-[![License](https://img.shields.io/badge/Licence-BSD-brightgreen.svg?style=plastic)](https://mvccore.github.io/docs/mvccore/4.0.0/LICENCE.md)
+[![Latest Stable Version](https://img.shields.io/badge/Stable-v5.0.0-brightgreen.svg?style=plastic)](https://github.com/mvccore/ext-debug-tracy-all/releases)
+[![License](https://img.shields.io/badge/License-BSD%203-brightgreen.svg?style=plastic)](https://mvccore.github.io/docs/mvccore/5.0.0/LICENCE.md)
 ![PHP Version](https://img.shields.io/badge/PHP->=5.4-brightgreen.svg?style=plastic)
 
 MvcCore Debug Extension to replace internal MvcCore variables dumping with Nette Tracy library (`tracy/tracy`) with all implemented debug panels for MvcCore.
