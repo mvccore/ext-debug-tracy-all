@@ -1,4 +1,4 @@
-# MvcCore - Extension - Debug - Tracy Adapter - All Panels
+# MvcCore - Extension - Debug - Nette Tracy Adapter - All Panels
 
 [![Latest Stable Version](https://img.shields.io/badge/Stable-v5.0.0-brightgreen.svg?style=plastic)](https://github.com/mvccore/ext-debug-tracy-all/releases)
 [![License](https://img.shields.io/badge/License-BSD%203-brightgreen.svg?style=plastic)](https://mvccore.github.io/docs/mvccore/5.0.0/LICENCE.md)
@@ -28,4 +28,4 @@ Dependent packages:
 - `mvccore/mvccore`
 - `mvccore/ext-auth`
 - `mvccore/ext-form`
-- `tracy/tracy`
+- `tomflidr/tracy`
