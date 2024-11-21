@@ -29,5 +29,6 @@
 		"mvccore/ext-debug-tracy-routing": "^5.2",
 		"mvccore/ext-debug-tracy-session": "^5.2"
 	},
-	"minimum-stability": "dev"
+	"minimum-stability": "dev",
+	"prefer-stable": true
 }
